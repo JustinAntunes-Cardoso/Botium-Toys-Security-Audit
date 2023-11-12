@@ -19,7 +19,7 @@ The IT manager initiated an internal audit to address concerns regarding busines
 ### Audit Materials
 
 1. [Botium Toys: Scope, goals, and risk assessment report](#) - Initial audit scope, goals, and risk assessment.
-2. [Control categories](#) - Checklist for controls assessment.
+2. [Control categories](https://github.com/JustinAntunes-Cardoso/Botium-Toys-Security-Audit/blob/main/Control-categories.docx) - Checklist for controls assessment.
 
 ### Controls and Compliance Checklist
 
