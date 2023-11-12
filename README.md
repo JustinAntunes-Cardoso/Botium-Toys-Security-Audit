@@ -87,10 +87,7 @@ The IT manager initiated an internal audit to address concerns regarding busines
    - Reflect on the effectiveness of the NIST CSF in guiding the audit process.
    - Identify strengths and areas for improvement in the audit.
 
-2. **Questionnaire:**
-   - Answer the provided questions for a comprehensive understanding of the audit process.
-
-3. **Stakeholder Communication:**
+2. **Stakeholder Communication:**
    - Use the recommendations section to communicate findings and proposed improvements to stakeholders.
 
 ## Feedback
